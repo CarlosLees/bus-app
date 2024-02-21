@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79f4e629-a308-42f7-b2a0-ce1d484ea396" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/user/index.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/index-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,29 +33,73 @@
     <option name="directoryName" value="moplb30d" />
   </component>
   <component name="ProjectId" id="2cdRZYxtwaxQ7aYjD0hkIO4no1z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/lishaowen/WebstormProjects/bus-app",
+    "last_opened_file_path": "E:/IdeaProject/bus-app/src/assets/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "E:\\IdeaProject\\bus-app\\node_modules\\stylelint",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "/Users/lishaowen/WebstormProjects/bus-app/node_modules/prettier",
-    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
-    "ts.external.directory.path": "/Users/lishaowen/WebstormProjects/bus-app/node_modules/typescript/lib",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.1724512",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Other File Types",
+    "ts.external.directory.path": "E:\\IdeaProject\\bus-app\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\bus-app\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\bus-app\src\assets\images" />
+      <recent name="E:\IdeaProject\bus-app\src\pages\index\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev:weapp">
+    <configuration name="dev:h5" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev:h5" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev:weapp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev:weapp" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev:weapp" />
+        <item itemvalue="npm.dev:h5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -58,6 +112,15 @@
       <option name="presentableId" value="Default" />
       <updated>1708439524730</updated>
       <workItem from="1708439526868" duration="2997000" />
+      <workItem from="1708476392679" duration="35000" />
+      <workItem from="1708476435436" duration="17000" />
+      <workItem from="1708476460070" duration="96000" />
+      <workItem from="1708476575550" duration="128000" />
+      <workItem from="1708476710303" duration="600000" />
+      <workItem from="1708477328077" duration="30000" />
+      <workItem from="1708477383426" duration="99000" />
+      <workItem from="1708477514302" duration="10000" />
+      <workItem from="1708479334125" duration="10608000" />
     </task>
     <servers />
   </component>

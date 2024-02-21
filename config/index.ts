@@ -42,7 +42,7 @@ export default defineConfig(async (merge, { command, mode }) => {
         url: {
           enable: true,
           config: {
-            limit: 1024 // 设定转换尺寸上限
+            limit: 40960 // 设定转换尺寸上限
           }
         },
         cssModules: {

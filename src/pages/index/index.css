@@ -1,0 +1,74 @@
+.index {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.index-top {
+    background-color: deepskyblue;
+    width: 100%;
+    height: 376px;
+    position: relative;
+}
+
+.index-top > .index-input {
+    border: gray 1px solid;
+    width: 80%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20%;
+    border-radius: 12px;
+    text-align: center;
+    height: 70px;
+    background-color: azure;
+    font-size: 35px;
+    line-height: 70px;
+    font-family: 幼圆;
+}
+
+.index-bottom {
+    width: 100%;
+    height: 100%;
+}
+
+.first-text {
+    font-size: 28px;
+    font-family: "Tempus Sans ITC";
+    width: 100%;
+    position: relative;
+    border-bottom: 1px gray solid;
+    padding: 5px;
+}
+
+.bus {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    border-bottom: 1px gray solid;
+}
+
+.bus-sec {
+    font-size: 35px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.bus-sec-name {
+    margin-right: 13px;
+    font-family: 幼圆;
+}
+
+.bus-sec-distance {
+    font-family: 华文楷体;
+    font-size: 30px;
+    position: absolute;
+    right: 5%;
+}
+
+.bus-name {
+    padding-left: 12px;
+    font-size: 28px;
+}
